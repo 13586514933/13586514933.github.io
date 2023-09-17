@@ -1,0 +1,70 @@
+﻿body{
+    margin:0;
+    font-family:'Sans Serif Collection'
+      
+}
+h1,
+h2,
+h5
+{
+    
+    color:azure;
+        line-height:40px;;
+}
+
+
+
+.header {
+    
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: black;
+    padding: 40px;
+    left:0;
+}
+
+.header  {
+    border-radius:30%;
+    border:10px solid white;
+    tab-size:50px
+}
+
+div{
+    padding:0px;
+}
+
+
+.Skills {
+    background-color: beige;
+}
+
+.jpg {
+    background-image: url(C:\Users\86189\source\repos\WebApplication1\bg.jpg);
+    
+ }
+
+.foooter {
+    background-color: black;
+    font-size: 20px;
+    color: white;
+}
+
+.p{
+padding:0px;
+background-color:black;
+}
+
+
+
+card-header{
+    background-color:black;
+}
+。card img{
+   inline-size:auto
+
+}
+
+.btn-group {
+    margin:0 auto;
+}
